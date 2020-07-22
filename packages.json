@@ -1,0 +1,10 @@
+{
+"packages": [
+{
+"name": "mvsendgrid",
+"version": "1.0.0",
+"path": "path to file",
+"dependency": "1.7.0"
+}
+]
+}
