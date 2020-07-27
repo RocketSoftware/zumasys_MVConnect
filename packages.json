@@ -2,12 +2,14 @@
   "packages": [
     {
       "name" "mvdb",
+      "description": "Primary MVConnect/MVDBToolkit package.",
       "version": "1.7.5",
       "path": "path to file",
       "default": "NO"
     },
     {
       "name": "mvsendgrid",
+      "description": "SendGrid API to send Emails",
       "version": "1.0.0",
       "path": "path to file",
       "dependency": "1.7.0",
