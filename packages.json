@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name" "mvdb",
+      "name": "mvdb",
       "description": "Primary MVConnect/MVDBToolkit package.",
       "version": "1.7.5",
       "path": "path to file",
