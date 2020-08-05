@@ -8,6 +8,13 @@
       "default": "NO"
     },
     {
+      "name": "mvdbtoolkit",
+      "description": "MVDBTOOLKIT Cross Platform Tools",
+      "version": "1.0.0",
+      "path":"",
+      "dependency":"1.7.0",
+      "default": "NO"
+    {
       "name": "mvsendgrid",
       "description": "SendGrid API to send Emails",
       "version": "1.0.0",
