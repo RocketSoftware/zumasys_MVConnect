@@ -13,7 +13,7 @@
       "version": "1.0.0",
       "path":"",
       "dependency":"1.7.0",
-      "default": "NO"
+      "default": "YES"
     },
     {
       "name": "mvsendgrid",
