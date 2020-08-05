@@ -14,6 +14,7 @@
       "path":"",
       "dependency":"1.7.0",
       "default": "NO"
+    },
     {
       "name": "mvsendgrid",
       "description": "SendGrid API to send Emails",
