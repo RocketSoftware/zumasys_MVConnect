@@ -18,7 +18,7 @@
     {
       "name": "mvsendgrid",
       "description": "SendGrid API to send Emails",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "path": "path to file",
       "dependency": "1.7.0",
       "default": "YES"
