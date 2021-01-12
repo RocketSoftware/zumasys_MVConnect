@@ -10,7 +10,7 @@
     {
       "name": "mvdbtoolkit",
       "description": "MVDBTOOLKIT Cross Platform Tools",
-      "version": "2.0.1",
+      "version": "2.0.6",
       "path":"",
       "dependency":"1.7.0",
       "default": "YES"
