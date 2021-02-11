@@ -22,6 +22,15 @@
       "path": "path to file",
       "dependency": "1.7.0",
       "default": "YES"
-    }
+    },
+   {
+     "name": "zapier",
+     "description": "Zapier WebHook",
+     "version":"1.0.0",
+     "path":"Path",
+     "dependency":"2.0.0",
+     "default": "NO"
+   }
+
   ]
 }
